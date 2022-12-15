@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>442650633702-n6hc35br57tp3lt4q5to2shpss6cnu2e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.442650633702-n6hc35br57tp3lt4q5to2shpss6cnu2e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCoR79b_S8gnz8dKjQtnmvzy13JgV5KdMQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>442650633702</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ru.afirthes.PhotoApp</string>
+	<key>PROJECT_ID</key>
+	<string>photo-app-7bd7d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>photo-app-7bd7d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:442650633702:ios:82e6f883eba3c1fc6de227</string>
+</dict>
+</plist>
