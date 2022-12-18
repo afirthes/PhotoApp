@@ -12,6 +12,7 @@ struct Constants {
     
     static let mainTabVC = "mainTabBarController"
     static let loginNavVC = "loginNavController"
+    static let photoCellId = "PhotoCell"
     
     static let storedIdKey = "storedUserId"
     
